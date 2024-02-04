@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@react-navigation/native": "^6.1.9",
+    "@react-navigation/native-stack": "^6.9.17",
+    "expo": "^50.0.4",
+    "react-native-webview": "^13.7.0"
+  }
+}
