@@ -11,7 +11,7 @@ This React Native application is an extension of the "buttons" app, located at `
 
 Watch a brief demonstration of the app in action:
 
-<img src="record.gif" width="300" height="600" alt="App Demonstration">
+<img src="webview-preview.gif" width="300" height="600" alt="App Demonstration">
 
 ## Note
 
