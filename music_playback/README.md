@@ -16,3 +16,7 @@ This React Native application offers a simple yet powerful interface for playing
 2. **State Management**: Leverages React's useState and useEffect hooks for state management and component lifecycle handling.
 
 3. **Persistent Storage**: Uses AsyncStorage for storing and retrieving user ratings, ensuring that preferences persist across app launches.
+
+## Preview
+https://github.com/Vatsal-Malaviya/mobile-apps/assets/77090011/57327bf2-e661-4127-81df-5286d7effef5
+
