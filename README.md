@@ -9,6 +9,7 @@ The repository is organized into directories for each application, with individu
 - `basic-app`: Introduces the fundamentals of mobile app development.
 - `buttons`: Explores UI components and user interactions.
 - `webview`: Showcases the integration of web content into mobile apps.
+- `music-playback`: Demonstrates audio playback capabilities, playlist management, and persistent storage.
 
 More applications will be added as the learning journey progresses.
 
